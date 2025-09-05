@@ -1,4 +1,5 @@
-# Social-Media-Sentiment-Analysis-Minor-Project
+# Social-Media-Sentiment-Analysis
+
 
 ## Introduction
 
